@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TallerDosClases</string>
+    <array name="Opciones">
+        <item>@string/Crear</item>
+        <item>@string/Reportes</item>
+    </array>
+    <array name="SistemasOperativos">
+        <item>@string/Android</item>
+        <item>@string/Ios</item>
+        <item>@string/WindowsPhone</item>
+    </array>
+    <array name="Reportes">
+        <item>@string/Reporte1</item>
+        <item>@string/Reporte2</item>
+        <item>@string/Reporte3</item>
+    </array>
+    <string name="Crear">Crear</string>
+    <string name="Reportes">Reportes</string>
+    <string name="CrearMovil">Crear Movil</string>
+    <string name="Marca">Marca</string>
+    <string name="Ram">Ram</string>
+    <string name="Precio">Precio</string>
+    <string name="Color">Color</string>
+    <string name="SistemaOperativo">Sistema operativo</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Borrar">Borrar</string>
+    <string name="Android">Android</string>
+    <string name="Ios">Ios</string>
+    <string name="WindowsPhone">Windows Phone</string>
+    <string name="MensajeExitoso">Movil adicionado</string>
+    <string name="Reporte1">Reporte 1</string>
+    <string name="Reporte2">Reporte 2</string>
+    <string name="Reporte3">Reporte 3</string>
+    <string name="Numero">Numero</string>
+    <string name="CantidadMovil">Cantidad de apple negro</string>
+</resources>

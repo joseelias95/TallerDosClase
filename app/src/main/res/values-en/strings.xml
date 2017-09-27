@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerDosClases</string>
+    <string name="Agregar">Add</string>
+    <string name="Android">Android</string>
+    <string name="Borrar">Delete</string>
+    <string name="CantidadMovil">Amount of black apple</string>
+</resources>
